@@ -3,7 +3,7 @@
 1. Clone the project
 
 ```
-git clone --recursive https://github.com/hiccup1991/react-native--elements-app.git
+git clone --recursive https://github.com/hiccup1991/react-native-elements-app.git
 ```
 
 2. Install node_modules
