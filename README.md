@@ -3,13 +3,13 @@
 1. Clone the project
 
 ```
-git clone --recursive https://github.com/hiccup1991/react-native-app.git
+git clone --recursive https://github.com/hiccup1991/react-native--elements-app.git
 ```
 
 2. Install node_modules
 
 ```
-cd react-native-app && npm install
+cd react-native-elements-app && npm install
 ```
 
 3. Verify submodule
