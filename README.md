@@ -26,15 +26,3 @@ git branch -v (should show master branch of react-native-elements)
   - Then click `Project` -> `Open Project` and select the examples folder from Step 2 above.
   - Finally run the app on simulator or your device.
 
-# 🌮 RNE v1-beta 🍰
-
-## New Features:
-- [x] Button component - re-written from scratch [@monte9]
-- [x] Input component - re-written from scratch [@monte9 & @xavier-villelegier]
-- [ ] Search component - re-written from scratch - Platform specific [@xavier-villelegier]
-- [ ] ListItem component - re-written from scratch - Platform specific [@martinezguillaume, @johot]
-- [x] Avatar component - refactored with cleaner API [@monte9]
-- [x] Production-ready screens - 🔥 💯 🎸  [@monte9, @xavier-villelegier, @martinezguillaume]
-- [x] Launching RNE Ecosystem 👍
-- [ ] Additional features - WIP
-
